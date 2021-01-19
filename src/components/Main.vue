@@ -14,7 +14,7 @@ export default {
     },
     fetchApi(value) {
       fetch('https://uvarovandrey.ru/api/')
-        .then(response => response.json())
+        .then(refsponse => response.json())
         .then(response => console.log(response));
     },
   },
