@@ -4,5 +4,8 @@
   },
   {
     "type": "city"
+  },
+  {
+    "type": "village"
   }
 ]
