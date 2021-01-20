@@ -1,5 +1,8 @@
 [
   {
     "type": "forest"
+  },
+  {
+    "type": "city"
   }
 ]
