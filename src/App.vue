@@ -20,3 +20,9 @@
   --c1: #333;
 }
 </style>
+
+<script>
+export default {
+  name: 'App'
+}
+</script>
