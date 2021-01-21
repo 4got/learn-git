@@ -1,0 +1,14 @@
+[
+  {
+    "type": "forest"
+  },
+  {
+    "type": "city"
+  },
+  {
+    "type": "village"
+  },
+  {
+    "type": "canals"
+  }
+]
