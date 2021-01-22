@@ -3,6 +3,7 @@ node_modules
 /dist
 
 src/assets/logo.png
+src/assets/cats.json
 
 # local env files
 .env.local
